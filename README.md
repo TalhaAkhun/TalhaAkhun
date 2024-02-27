@@ -15,8 +15,8 @@
 
 <details>
   <summary>Click here to check my contact links</summary>
-    <p>- GitHub: <a href="" alt="github">VitorGuedesMadeira</a></p>
-    <p>- Linkedin: <a href="" alt="linkedin">Vitor Guedes Madeira</a></p>
+    <p>- GitHub: <a href="" alt="github"></a></p>
+    <p>- Linkedin: <a href="" alt="linkedin"></a></p>
 </details>
 
 <br>
