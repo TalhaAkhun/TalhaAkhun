@@ -9,32 +9,19 @@
 
 <br>
 
-<h3>I welcome you to check my live <a href="https://vitorguedesmadeira.netlify.app/" alt="portfolio-link">Portfolio</a></h3>
+
 
 <br>
 
 <details>
-  <summary>Click here to check my Tech Stack</summary>
-    <p>- Front-End: JavaScript | React | Redux | jQuery | HTML5 | CSS3 | SASS | Bootstrap | TailwindCSS | Adobe Photoshop | Canva</p>
-    <p>- Back-End: Ruby | Rails | Python | SQL</p>
-    <p>- Tools & Methods: Git | GitHub | Netlify | Render | Mobile/Responsive Development | RSpec | Capybara | TDD | Chrome Dev Tools</p>
-    <p>- Professional: Remote Pair-Programming | Teamwork | Mentoring | Project Management</p>
-    <p>- Product management: UI design | UX Design | Prototyping | Wireframing</p>
-</details>
- 
-
-<details>
   <summary>Click here to check my contact links</summary>
-    <p>- GitHub: <a href="https://github.com/VitorGuedesMadeira" alt="github">VitorGuedesMadeira</a></p>
-    <p>- Linkedin: <a href="https://www.linkedin.com/in/vitor-guedes-madeira" alt="linkedin">Vitor Guedes Madeira</a></p>
-    <p>- Instagram: <a href="https://www.instagram.com/vitorguedesmadeira" alt="instagram">@vitorguedesmadeira</a></p>
-    <p>- Medium: <a href="https://medium.com/@vitorguedesmadeira/you-teach-you-learn-6f5ac50aae65" alt="medium">@vitorguedesmadeira</a></p>
+    <p>- GitHub: <a href="" alt="github">VitorGuedesMadeira</a></p>
+    <p>- Linkedin: <a href="" alt="linkedin">Vitor Guedes Madeira</a></p>
 </details>
 
 <br>
 
 <p>
-  <a href="vitorguedesmadeira@hotmail.com" alt="email">vitorguedesmadeira@hotmail.com</a>
 </p>
 
 <h1>Open for job Opportunities</h1>
