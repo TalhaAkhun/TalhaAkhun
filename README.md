@@ -1,4 +1,4 @@
-<img src="assets/gif/huge.gif" alt="software developer banner">
+<img src="[assets/gif/huge.gif" alt="software developer banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJlbXg4d2R5NzN5NHExb25yaWU2ZWZoMXNqcXd1am02c3JrbTA5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdMG2hVBohOuAggLX4/giphy-downsized-large.gif)">
 
 <h3>Get to know me better</h3>
 <p>- A multi-skilled FullStack developer with hands-on experience in developing. I graduated from Microverse, where people from all over the world join together to build different projects. I've spent the last several months completely immersed in remote development, pair-programmming, and building webpages with JavaScript, React/Redux, and Ruby/Rails.</p>
