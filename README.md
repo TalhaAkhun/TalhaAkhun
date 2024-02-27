@@ -1,4 +1,3 @@
-# Hello, I'm Talha Najeeb! 👋
 <img class="imagebanner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 900px;">
 
 # 💫 About Me:
