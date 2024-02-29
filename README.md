@@ -1,7 +1,7 @@
 
-# 💫 About Me:
 <img class="imagebanner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 700px;">
 
+# 💫 About Me:
 🔭 Education and Learning Journey:
 Currently, I'm immersed in a full-time Web Development program, where I'm expanding my skills and knowledge in various programming languages.
 
