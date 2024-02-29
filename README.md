@@ -1,6 +1,7 @@
 <div>
   <img class="image-banner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 1100px; height: 200px;">
 </div>
+
 # 💫 About Me:
 🔭 Education and Learning Journey:
 Currently, I'm immersed in a full-time Web Development program, where I'm expanding my skills and knowledge in various programming languages.
