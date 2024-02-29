@@ -1,4 +1,4 @@
-<img class="imagebanner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 700px;">
+<img class="imagebanner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 300px;">
 
 # 💫 About Me:
 🔭 Education and Learning Journey:
