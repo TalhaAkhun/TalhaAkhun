@@ -2,8 +2,20 @@
 # 💫 About Me:
 <img class="imagebanner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 700px;">
 
-🔭 **Education and Learning Journey:**<br>I am currently immersed in a **full-time Web Development program** , . <br><br>🌱 **Continuous Skill Enhancement:**<br>My commitment to continuous improvement is evident in my pursuit of proficiency in **various languages**. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at `FreeCodeCamp`. has provided a solid foundation for my journey into `Full Stack Web Development`.<br><br>👯 **Open to Collaboration:** <br>Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving **JavaScript** and `React-Redux technologies. My goal is to engage in meaningful `project` that contribute to the broader development community.<br><br>💬 **Expertise and Learning Focus**:<br>Feel free to inquire about my expertise in front-end development. As a current **`Full Stack Web Development**`. My learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.<br><br><br>📫 **Connect with Me** <br>I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the World of `web development`<br>TalhaAkhunNajeeb3@gmail.com<br>Feel free to reach out and connect! 😊<br><br><br>
+🔭 Education and Learning Journey:
+Currently, I'm immersed in a full-time Web Development program, where I'm expanding my skills and knowledge in various programming languages.
 
+🌱 Continuous Skill Enhancement:
+I'm dedicated to continuous improvement, with a primary focus on JavaScript and its frameworks, particularly React and Redux. Through platforms like FreeCodeCamp, I've built a solid foundation in Full Stack Web Development.
+
+👯 Open to Collaboration:
+I'm actively seeking collaboration on open-source projects, especially those involving JavaScript and React-Redux technologies. My aim is to contribute to meaningful projects that benefit the broader development community.
+
+💬 Expertise and Learning Focus:
+Feel free to inquire about my expertise in front-end development. As a current Full Stack Web Development student, I'm also exploring areas like data sciences and machine learning algorithms.
+
+📫 Connect with Me:
+I welcome connections through my social platforms. Let's discuss the exciting possibilities in the world of web development! Feel free to reach out at TalhaNajeebAkhun@gmail.com. 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/talha-akhun3) 
