@@ -1,4 +1,3 @@
-
 <img class="imagebanner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 700px;">
 
 # 💫 About Me:
