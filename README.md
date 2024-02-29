@@ -1,5 +1,5 @@
 <div>
-  <img class="image-banner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 900px;">
+  <img class="image-banner" src="assets/gif/giphy.gif" alt="software developer banner" style="width: 1100px; width: 200px;">
 </div>
 # 💫 About Me:
 🔭 Education and Learning Journey:
