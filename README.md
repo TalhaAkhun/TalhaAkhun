@@ -16,7 +16,7 @@ I'm actively seeking collaboration on open-source projects, especially those inv
 Feel free to inquire about my expertise in front-end development. As a current Full Stack Web Development student, I'm also exploring areas like data sciences and machine learning algorithms.
 
 📫 Connect with Me:
-I welcome connections through my social platforms. Let's discuss the exciting possibilities in the world of web development! Feel free to reach out at TalhaNajeebAkhun@gmail.com. 😊
+I welcome connections through my social platforms. Let's discuss the exciting possibilities in the world of web development! Feel free to reach out at TalhaNajeebAkhun3@gmail.com. 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/talha-akhun3) 
