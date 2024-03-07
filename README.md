@@ -18,6 +18,8 @@ Feel free to inquire about my expertise in front-end development. As a current F
 📫 Connect with Me:
 I welcome connections through my social platforms. Let's discuss the exciting possibilities in the world of web development! Feel free to reach out at TalhaNajeebAkhun3@gmail.com. 😊
 
+<h3>I welcome you to check my live <a href="https://myportfolio-six-ebon.vercel.app/" alt="portfolio-link">Portfolio</a></h3>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/talha-akhun3) 
 
