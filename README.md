@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 **Education**, Learning Journey and Coding Passion:
+🔭 **Education, Learning Journey and Coding Passion:**
 Currently, I'm immersed in a `full-time Web Development program`, where I'm expanding my skills and knowledge in various programming languages.
 
 🌱 **Continuous Skill Enhancement:**
