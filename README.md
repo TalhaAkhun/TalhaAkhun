@@ -6,7 +6,7 @@
 🔭 **Education**, Learning Journey and Coding Passion:
 Currently, I'm immersed in a `full-time Web Development program`, where I'm expanding my skills and knowledge in various programming languages.
 
-🌱 Continuous Skill Enhancement:
+🌱 **Continuous Skill Enhancement:**
 I'm dedicated to continuous improvement, with a primary focus on JavaScript and its frameworks, particularly React and Redux. Through platforms like `FreeCodeCamp`, I've built a solid foundation in `Full Stack Web Development`.I have completed a course in `freecodecamp` and will be achieveing certificates in future
 
 👯 Open to Collaboration:
