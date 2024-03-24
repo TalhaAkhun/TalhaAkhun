@@ -7,7 +7,7 @@
 Currently, I'm immersed in a `full-time Web Development program`, where I'm expanding my skills and knowledge in various programming languages.
 
 🌱 **Continuous Skill Enhancement:**
-I'm dedicated to continuous improvement, with a primary focus on JavaScript and its frameworks, particularly React and Redux. Through platforms like `FreeCodeCamp`, I've built a solid foundation in `Full Stack Web Development`.I have completed a course in `FreeCodeCamp` and will be achieving certificates in future
+I'm dedicated to continuous improvement, with a primary focus on JavaScript and its frameworks, particularly React and Redux. Through platforms like `FreeCodeCamp`, I've built a solid foundation in `Full Stack Web Development`.I have completed a course in `FreeCodeCamp` and will be achieving certificates in the future
 
 👯 **Open to Collaboration:**
 I'm actively seeking collaboration on open-source projects, especially those involving JavaScript and React-Redux technologies. My aim is to contribute to meaningful projects that benefit the broader development community.
