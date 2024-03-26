@@ -10,7 +10,7 @@ Currently, I'm immersed in a `full-time Web Development program`, where I'm expa
 I'm dedicated to continuous improvement, with a primary focus on `JavaScript` and its frameworks, particularly React and Redux. Through platforms like `FreeCodeCamp`, I've built a solid foundation in `Full Stack Web Development`.I have completed a course in `FreeCodeCamp` and will be achieving certificates in the future
 
 👯 **Open to Collaboration:**
-I'm actively seeking collaboration on open-source projects, especially those involving JavaScript and React-Redux technologies. My aim is to contribute to meaningful projects that benefit the broader development community.
+I'm actively seeking collaboration on `open-source projects`, especially those involving JavaScript and React-Redux technologies. My aim is to contribute to meaningful projects that benefit the broader development community.
 
 💬 Expertise and Learning Focus:
 Feel free to inquire about my expertise in `front-end development`. As a current **Full Stack Web Development** student, I'm also exploring areas like data sciences and machine learning algorithms.
