@@ -41,6 +41,6 @@ I welcome connections through my social platforms. Let's discuss the exciting po
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
-TalhaNajeebb/TalhaNajeebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TalhaNajeebb/TalhaNajeebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your *GitHub* profile.
 You can click the Preview link to take a look at your changes.
 --->
